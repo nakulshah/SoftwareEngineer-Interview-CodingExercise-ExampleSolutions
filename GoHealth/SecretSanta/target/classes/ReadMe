@@ -1,0 +1,41 @@
+Q] Which problem does this software solve?
+A] This software can solve the Secret Santa Assignment Problem
+
+Q] Check List
+A] The code must be compilable and produce the correct output. = Check
+   Unit tests are not required. = Check
+   Include any build scripts, dependency management configuration files, etc. = pom.xml = Check
+   Package everything as a complete project. Compress the package into one file then send it back to the
+   GoHealth Technical Recruiter. = zip = Check
+   Implement at least 2 algorithms/implementations. = Check
+   Use your judgement on how to design it. = Currently there are two separate test 
+        classes and implementation classes. Using Spring Dependency Injection could
+        have decreased the lines of code, but to keep things simple, it was not used
+        If you need a version with Spring Dependency Injection please let me know
+        and I will provide it to you within 60 minutes of notice.
+
+Q] What criteria was used to certify the solution as acceptable?
+A] All the tests in com.nakul.shah.secretsantatest SecretSantaHashSetTest & SecretSantaRandomTest must pass
+(1) No participant should be assigned a Santa to himself
+(2) Every participant should be assigned a santa
+(3) Exceptions will be thrown when
+    (a) The input set is null or empty
+    (b) There are duplicate participants
+    (c) Single participant is supplied
+    (d) Name of the participant is null or empty
+(4) Assigned Santa algorithm must not be merely right/left shifted from participants
+
+Q] This could all be accomplished by a single static function. Why was such a big application written?
+A] One Word: Expandability 
+Elaborate: It is not just about solving this particular problem. It is about laying the framework for solving many more 
+to come.
+Example: (1) This framework can be leveraged for White Elephant, etc.
+
+NOTE: Using Spring Dependency Injection could
+    have decreased the lines of code, but to keep things simple, it was not used
+    If you need a version with Spring Dependency Injection please let me know
+    and I will provide it to you within 60 minutes of notice.
+
+- Nakul Shah
+nakulshah@gmail.com
+773.537.8757

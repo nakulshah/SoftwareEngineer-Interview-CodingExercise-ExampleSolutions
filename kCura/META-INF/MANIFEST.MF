@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: lucky7user
+Build-Jdk: 1.7.0_45
+Main-Class: com.nakul.shah.kcura.cities.App
+Class-Path: lib/google-collections-1.0.jar
+

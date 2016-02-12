@@ -1,0 +1,166 @@
+Hello Schrodinger World!
+Proteins File Address = C:\\Nakul\\nakulshah\\700\\Sch\\proteins.txt
+Drugs File Address = C:\\Nakul\\nakulshah\\700\\Sch\\drugs.txt
+<<<<<<<<<Result Summary - START>>>>>>>>>>
+2014-03-02 23:50:25.002
+Total BA Score = 1587.5
+2014-03-02 23:50:25.677
+Computational Time Taken = 675 milli seconds
+<<<<<<<<<Result Summary - END>>>>>>>>>>
+
+
+
+
+
+Parings -- 
+BAPair{protein=50S-ribosomal-protein-P1-(L12P), drug=Gardasil, baScore=12.5}
+BAPair{protein=A3B3-complex, drug=Lipitor, baScore=6.0}
+BAPair{protein=AaSPS, drug=Crestor, baScore=12.5}
+BAPair{protein=adenosine-A2A-receptor, drug=Nexium, baScore=7.5}
+BAPair{protein=afadin, drug=Yaz, baScore=2.5}
+BAPair{protein=AfuAlaRS, drug=Advair, baScore=7.5}
+BAPair{protein=AlaRS, drug=Fentanyl, baScore=15.0}
+BAPair{protein=Ara7-AtVps9a-complex, drug=Actos, baScore=5.0}
+BAPair{protein=aRF1, drug=Abilify, baScore=6.0}
+BAPair{protein=ASBT, drug=Seroquel, baScore=10.0}
+BAPair{protein=Atg16, drug=Zosyn, baScore=12.5}
+BAPair{protein=Atg19, drug=Metoprolol, baScore=18.75}
+BAPair{protein=Atg34, drug=Zyvox, baScore=12.5}
+BAPair{protein=Atg7, drug=Epogen, baScore=7.5}
+BAPair{protein=Atg7-Atg8-complex, drug=Aggrenox, baScore=12.5}
+BAPair{protein=Atg8, drug=Aricept, baScore=6.0}
+BAPair{protein=Atg8-Atg19(peptide)-complex, drug=Plavix, baScore=12.5}
+BAPair{protein=Cbl-b, drug=Doryx, baScore=12.5}
+BAPair{protein=CERT-START-domain, drug=Celebrex, baScore=12.5}
+BAPair{protein=ChR, drug=Singulair, baScore=15.625}
+BAPair{protein=Ci-VSP, drug=Cialis, baScore=7.5}
+BAPair{protein=cyclodipeptide-synthase, drug=Nuvaring, baScore=12.5}
+BAPair{protein=Cytochrome-c-oxidase, drug=Exelon, baScore=7.5}
+BAPair{protein=Cytochrome-P450cam, drug=Lovenox, baScore=6.0}
+BAPair{protein=Dihydrouridine-synthase, drug=Reclast, baScore=12.5}
+BAPair{protein=Dmp1-Dmp2, drug=Gemzar, baScore=12.5}
+BAPair{protein=Dmp1-Dmp2-a5, drug=Enoxaparin, baScore=12.5}
+BAPair{protein=DotD, drug=Atripla, baScore=6.0}
+BAPair{protein=Esa1, drug=Xalatan, baScore=6.0}
+BAPair{protein=Evectin-2, drug=NovoSeven, baScore=15.625}
+BAPair{protein=F1-ATPase-epsilon-subunit, drug=Amphetamin, baScore=18.75}
+BAPair{protein=FlhA, drug=Epzicom, baScore=6.0}
+BAPair{protein=FliJ, drug=Copaxone, baScore=10.0}
+BAPair{protein=FliT, drug=Erbitux, baScore=6.0}
+BAPair{protein=GatCAB, drug=Spiriva, baScore=6.0}
+BAPair{protein=GenX, drug=Benicar, baScore=6.0}
+BAPair{protein=GenX---EF-P-complex, drug=Lucentis, baScore=12.5}
+BAPair{protein=gidA, drug=Diovan, baScore=7.5}
+BAPair{protein=glutamine-transamidosome, drug=Boniva, baScore=7.5}
+BAPair{protein=glutamyl-tRNA-synthetase, drug=Kaletra, baScore=6.0}
+BAPair{protein=glutamyl-tRNA-synthetase, drug=Evista, baScore=7.5}
+BAPair{protein=hAtg4B-LC3-complex, drug=Omnipaque, baScore=12.5}
+BAPair{protein=histamine-H1-receptor, drug=Prevnar, baScore=15.625}
+BAPair{protein=HOIL-1L, drug=Procrit, baScore=15.625}
+BAPair{protein=IGF-1, drug=Solodyn, baScore=12.5}
+BAPair{protein=IGF-IRalpha, drug=Sandostatin, baScore=21.875}
+BAPair{protein=IGF-IRbeta, drug=Truvada, baScore=6.0}
+BAPair{protein=IkB, drug=Lantus, baScore=12.5}
+BAPair{protein=IKK, drug=Pantoprazole, baScore=21.875}
+BAPair{protein=IL-1, drug=Viread, baScore=7.5}
+BAPair{protein=IL-1RAcP, drug=Diovan, baScore=7.5}
+BAPair{protein=IL1RI, drug=Concerta, baScore=12.5}
+BAPair{protein=IL-3, drug=Femara, baScore=7.5}
+BAPair{protein=IL-3Ralpha, drug=Zetia, baScore=7.5}
+BAPair{protein=IL-3Rbeta, drug=Lyrica, baScore=12.5}
+BAPair{protein=IL-6, drug=Effexor, baScore=6.0}
+BAPair{protein=IL-6R, drug=Restasis, baScore=12.5}
+BAPair{protein=IL-6RE, drug=Levemir, baScore=6.0}
+BAPair{protein=IP3, drug=Herceptin, baScore=18.75}
+BAPair{protein=IRAK1, drug=Amphetamin, baScore=18.75}
+BAPair{protein=Keap1-DC, drug=Angiomax, baScore=10.0}
+BAPair{protein=LC3-p62, drug=Welchol, baScore=15.625}
+BAPair{protein=LC3-p62(peptide)-complex, drug=Levaquin, baScore=10.0}
+BAPair{protein=linear-diubiquitin, drug=Treanda, baScore=6.0}
+BAPair{protein=MafG---DNA-complex, drug=Janumet, baScore=6.0}
+BAPair{protein=MiaA-tRNA, drug=Flomax, baScore=12.5}
+BAPair{protein=MjPSTK, drug=Temodar, baScore=6.0}
+BAPair{protein=MjTRM5, drug=Avonex, baScore=7.5}
+BAPair{protein=MKLP1-ARF6-complex, drug=Renvela, baScore=6.0}
+BAPair{protein=MnmC, drug=NovoLog, baScore=6.0}
+BAPair{protein=m-VSOP, drug=Benicar, baScore=6.0}
+BAPair{protein=nectin-1, drug=Invega, baScore=7.5}
+BAPair{protein=NEMO-cozi-domain, drug=Gleevec, baScore=6.0}
+BAPair{protein=NtpD-NtpG-complex, drug=Zemplar, baScore=12.5}
+BAPair{protein=NtpK, drug=Namenda, baScore=6.0}
+BAPair{protein=Nucleomethylin, drug=Januvia, baScore=10.0}
+BAPair{protein=p300, drug=Asacol, baScore=7.5}
+BAPair{protein=p38, drug=Tricor, baScore=12.5}
+BAPair{protein=p53, drug=Synthroid, baScore=21.875}
+BAPair{protein=p62-PB1-domain, drug=Avalide, baScore=10.0}
+BAPair{protein=p62-UBA-domain, drug=Orencia, baScore=10.0}
+BAPair{protein=PAC3, drug=Avelox, baScore=7.5}
+BAPair{protein=PAD4, drug=Aranesp, baScore=6.0}
+BAPair{protein=PDGF, drug=Geodon, baScore=7.5}
+BAPair{protein=PDGFRalpha, drug=Opana, baScore=7.5}
+BAPair{protein=PDK, drug=Isentress, baScore=18.75}
+BAPair{protein=Pelota-EF1a-complex, drug=Lamictal, baScore=12.5}
+BAPair{protein=PI3K, drug=Caduet, baScore=7.5}
+BAPair{protein=PIP2, drug=Taxotere, baScore=10.0}
+BAPair{protein=PIP3, drug=Avodart, baScore=6.0}
+BAPair{protein=PKA, drug=Byetta, baScore=12.5}
+BAPair{protein=PKC, drug=Pulmozyme, baScore=18.75}
+BAPair{protein=PLC, drug=Valacyclovir, baScore=25.0}
+BAPair{protein=proteasome-interacting-protein, drug=Velcade, baScore=6.0}
+BAPair{protein=PsrABC, drug=Lumigan, baScore=6.0}
+BAPair{protein=PTEN, drug=Niaspan, baScore=6.0}
+BAPair{protein=PylRS, drug=Prograf, baScore=12.5}
+BAPair{protein=PylRS, drug=Flovent, baScore=12.5}
+BAPair{protein=RimM---S19-complex, drug=Gamunex, baScore=6.0}
+BAPair{protein=Rpn14, drug=Nutropin, baScore=12.5}
+BAPair{protein=RsmC, drug=Nasonex, baScore=6.0}
+BAPair{protein=S5RE, drug=Suboxone, baScore=10.0}
+BAPair{protein=S6K1, drug=Xeloda, baScore=7.5}
+BAPair{protein=SARA, drug=Aciphex, baScore=6.0}
+BAPair{protein=SBE, drug=Lantus, baScore=12.5}
+BAPair{protein=SecDF, drug=Lidoderm, baScore=12.5}
+BAPair{protein=SecYE, drug=Travatan, baScore=12.5}
+BAPair{protein=Selenocysteine-tRNA, drug=Provigil, baScore=12.5}
+BAPair{protein=SepSecS, drug=Vytorin, baScore=15.625}
+BAPair{protein=Shc, drug=Lotrel, baScore=12.5}
+BAPair{protein=Shp-2, drug=Premarin, baScore=12.5}
+BAPair{protein=SHP-2, drug=Differin, baScore=12.5}
+BAPair{protein=SIE, drug=Pantoprazole, baScore=21.875}
+BAPair{protein=Ski, drug=Strattera, baScore=18.75}
+BAPair{protein=Smad4, drug=Chantix, baScore=12.5}
+BAPair{protein=Smad7, drug=Loestrin, baScore=12.5}
+BAPair{protein=Smurf1, drug=Arimidex, baScore=10.0}
+BAPair{protein=Smurf2, drug=Mirena, baScore=7.5}
+BAPair{protein=SnoN, drug=Viagra, baScore=7.5}
+BAPair{protein=Sos, drug=Combivent, baScore=18.75}
+BAPair{protein=Sos-1, drug=Valtrex, baScore=12.5}
+BAPair{protein=Src, drug=Keppra, baScore=12.5}
+BAPair{protein=SRE, drug=Pantoprazole, baScore=21.875}
+BAPair{protein=SRF, drug=Risperdal, baScore=18.75}
+BAPair{protein=STAT1, drug=AndroGel, baScore=12.5}
+BAPair{protein=STAT3, drug=Trilipix, baScore=12.5}
+BAPair{protein=STAT5, drug=Cellcept, baScore=15.0}
+BAPair{protein=STAT5a, drug=Abraxane, baScore=10.0}
+BAPair{protein=STAT5b, drug=Alimta, baScore=7.5}
+BAPair{protein=Sua5, drug=Cozaar, baScore=7.5}
+BAPair{protein=TFIIEa-acidic-domain, drug=Rebif, baScore=5.0}
+BAPair{protein=TFIIEa-acidic-domain--TFIIH-p62-PH-domain-complex, drug=Vyvanse, baScore=15.625}
+BAPair{protein=TilS, drug=Neupogen, baScore=10.0}
+BAPair{protein=TmcA, drug=Avandia, baScore=8.0}
+BAPair{protein=TPHE39A, drug=Zyprexa, baScore=15.625}
+BAPair{protein=TRBP, drug=Vesicare, baScore=10.0}
+BAPair{protein=Trm1, drug=Tarceva, baScore=6.0}
+BAPair{protein=Trm4, drug=Novolog, baScore=6.0}
+BAPair{protein=Trm5, drug=Lovaza, baScore=7.5}
+BAPair{protein=TrmD, drug=Varivax, baScore=6.0}
+BAPair{protein=trmFO, drug=Sensipar, baScore=12.5}
+BAPair{protein=TYW1, drug=Entocort, baScore=7.5}
+BAPair{protein=TYW2(MJ1557), drug=Reyataz, baScore=6.0}
+BAPair{protein=TYW2(PH0793), drug=Protonix, baScore=7.5}
+BAPair{protein=TYW4, drug=Cubicin, baScore=6.0}
+BAPair{protein=TYW5, drug=Arixtra, baScore=6.0}
+BAPair{protein=Ubch5b, drug=Forteo, baScore=7.5}
+BAPair{protein=ubiquitin, drug=Symbicort, baScore=21.875}
+BAPair{protein=UCH37, drug=Claravis, baScore=12.5}
+BAPair{protein=ZO-1, drug=Venofer, baScore=6.0}
+Thank You

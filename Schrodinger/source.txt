@@ -1,0 +1,2 @@
+http://schrodinger-quiz.s3.amazonaws.com/drugs.txt
+http://schrodinger-quiz.s3.amazonaws.com/proteins.txt

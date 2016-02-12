@@ -1,0 +1,3 @@
+4|Arlington|Texas|I-30;I-20;I-5
+27|Chicago|Illinois|I-94;I-90;I-88;I-57;I-55;I-80
+10|San Jose|California|I-5;I-80

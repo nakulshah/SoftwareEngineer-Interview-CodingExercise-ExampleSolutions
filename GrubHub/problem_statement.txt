@@ -1,0 +1,40 @@
+Write a function that identifies the restaurants getting the most orders in each city. The function 'getTopPerformers' should return a list of restaurants, each of which must have a number of orders higher than the average order-count-per-restaurant in the same city. A supporting interface and definition for RestaurantInfo are provided as a starting point. Please submit a solution in either Java, Javascript, or Ruby.
+
+(RestaurantFinder.java)
+import java.util.List;
+
+public interface RestaurantFinder {
+public List getTopPerformers(List restaurants);
+}
+
+
+(RestaurantInfo.java)
+public class RestaurantInfo {
+private int restaurantId;
+private int orderCount;
+private int cityId;
+
+public RestaurantInfo(int restaurantId, int orderCount, int cityId) {
+this.restaurantId = restaurantId;
+this.orderCount = orderCount;
+this.cityId = cityId;
+}
+public int getRestaurantId() {
+return restaurantId;
+}
+public int getOrderCount() {
+return orderCount;
+}
+public int getCityId() {
+return cityId;
+}
+}
+
+For example, given the following inputs:
+RestaurantInfo(1, 100, 1)
+RestaurantInfo(2, 200, 1)
+RestaurantInfo(3, 100, 1)
+RestaurantInfo(4, 400, 2)
+RestaurantInfo(5, 200, 2)
+RestaurantInfo(6, 400, 2)
+The getTopPerformers should return RestaurantInfo objects for restaurant ID's 2, 4, and 6. Restaurant 2 has more orders than the average in city 1 (133.3), restaurants 4&6 have more orders than the average in city 2 (333.3).

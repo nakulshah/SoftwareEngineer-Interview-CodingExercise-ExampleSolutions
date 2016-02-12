@@ -1,0 +1,8 @@
+#surefire
+#Mon Jan 06 22:07:40 CST 2014
+maven.ext.class.path=C\:\\Program Files\\NetBeans 7.4\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Nakul\\nakulshah\\700\\groupon\\nakul.shah
+localRepository=C\:\\Users\\lucky7user\\.m2\\repository
+netbeansProjectMappings=
+basedir=C\:\\Nakul\\nakulshah\\700\\groupon\\nakul.shah
+test=com.groupon.quiz.nakul.shah.ruby.Problem_234_GenerateRandomPointsTest
