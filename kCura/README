@@ -1,0 +1,16 @@
+This project is a solution for: kCura Code Challenge
+To use the project:
+1. you will find a jar file named kcura-1.0-SNAPSHOT ~\kcura\kcura\target [additional jar file named google-collections-1.0 is also contained in the same folder, this jar is also essential for execution]
+2. run the program by giving the following command
+java -jar  kcura-1.0-SNAPSHOT.jar -inputfile=<input_file_name>
+e.g. java -jar  kcura-1.0-SNAPSHOT.jar -inputfile=Sample_Cities.txt
+3. the result files will be created in the same folder
+
+
+
+Note: The classes in package com.nakul.shah.kcura.cities.tparty were taken from Princeton http://algs4.cs.princeton.edu/. 
+
+
+- Nakul Shah
+
+
